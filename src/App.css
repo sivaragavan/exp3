@@ -28,33 +28,3 @@
     flex: 2;
 }
 
-
-textarea { 
-  border-style: none; 
-  border-color: Transparent; 
-  overflow: auto; 
-  font-family: Georgia;       
-  font-size: 25px;
-  color: #222;
-  line-height: 1.5em;
-  width: 100%;
-}
-
-textarea:focus {
-  outline: none;
-}
-
-textarea::-webkit-input-placeholder {
-    color: #ccc;
-}
-textarea:-moz-placeholder {
-    color: #ccc;
-}
-textarea::-moz-placeholder {
-    color: #ccc;
-}
-textarea:-ms-input-placeholder {
-    color: #ccc;
-}
-
-
